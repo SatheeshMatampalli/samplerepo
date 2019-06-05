@@ -1,0 +1,4 @@
+data in a.txt
+satheesh
+satheesh \t
+satheesh t
